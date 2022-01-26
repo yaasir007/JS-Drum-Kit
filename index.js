@@ -10,7 +10,7 @@ window.addEventListener('keydown', (e) => {
 
 function removeTransition(e){
     if (e.propertyName !== 'transform') return; //it will skip if the propertyname is not transform.
-    this.classList.remove('playing');
+    this.classList.remove('playing'); //remove the border
 }
 
 const keys = document.querySelectorAll('.key');
