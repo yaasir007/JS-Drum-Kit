@@ -13,5 +13,5 @@ function removeTransition(e){
     this.classList.remove('playing'); //remove the border
 }
 
-const keys = document.querySelectorAll('.key');
+const keys = document.querySelectorAll('.key');  //selecting all keys
 keys.forEach(element => element.addEventListener('transitionend', removeTransition));
