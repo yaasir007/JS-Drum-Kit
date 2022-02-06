@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-![Home Page](/screenshots/homepage.png "Home Page")
+![Home Page](/screenshot/homepage.png "Home Page")
 
 ## Available Commands
 1. Fork the repo<br>
