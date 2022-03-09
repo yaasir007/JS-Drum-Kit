@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Repo] - Parkium - https://github.com/yaasir007/JS-Drum-Kit
+- [Repo] - JS-Drum-Kit - https://github.com/yaasir007/JS-Drum-Kit
 
 - [Live] - https://heuristic-mccarthy-b33f55.netlify.app/
 
